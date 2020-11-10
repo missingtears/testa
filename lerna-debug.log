@@ -1,0 +1,11 @@
+44 error Error: Command failed: git push --follow-tags --no-verify --atomic origin master
+44 error bash: /dev/tty: No such device or address
+44 error error: failed to execute prompt script (exit code 1)
+44 error bash: /dev/tty: No such device or address
+44 error error: failed to execute prompt script (exit code 1)
+44 error stty: 'standard input': Inappropriate ioctl for device
+44 error remote: Invalid username or password.
+44 error fatal: Authentication failed for 'https://github.com/missingtears/testa.git/'
+44 error
+44 error     at makeError (C:\ProgramData\nvm\v12.18.4\node_modules\lerna\node_modules\execa\index.js:174:9)
+44 error     at C:\ProgramData\nvm\v12.18.4\node_modules\lerna\node_modules\execa\index.js:278:16
