@@ -1,0 +1,29 @@
+{
+  "name": "module-a",
+  "version": "1.0.1-alpha.0",
+  "description": "> TODO: description",
+  "author": "fengpingping <fengpingping@hikvision.com.cn>",
+  "homepage": "https://github.com/missingtears/testa#readme",
+  "license": "ISC",
+  "main": "lib/module-a.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "http://af.hikvision.com.cn/artifactory/api/npm/npm-down/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/missingtears/testa.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/missingtears/testa/issues"
+  }
+}
